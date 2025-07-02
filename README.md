@@ -1,9 +1,11 @@
-[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://www.google.com)
+
 
 <h1 align="center">Hi 👋, I'm Prajyot Tambade</h1>
 <h3 align="center">A Frontend Developer 👨‍💻 who is enthusiastic about Web Design ✒️</h3>
 
-- 🌱 I’m currently learning: **JavaScript & React.js ⚛**
+[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://www.google.com)
+
+- 🌱 I’m currently learning: **JavaScript & Next.js ⚛**
 
 - 💬 Ask me about: **Web Dev & Web Design**
 
