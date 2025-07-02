@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)](https://www.google.com)
+[![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)](https://www.google.com)
 
 <h1 align="center">Hi 👋, I'm Prajyot Tambade</h1>
 <h3 align="center">A Frontend Developer 👨‍💻 who is enthusiastic about Web Design ✒️</h3>
